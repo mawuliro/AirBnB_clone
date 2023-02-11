@@ -1,21 +1,4 @@
 
-Lexxyla
-/
-AirBnB_clone
-Public
-forked from Aysuarex/AirBnB_clone
-Code
-Pull requests
-Actions
-Projects
-Security
-Insights
-AirBnB_clone/README.md
-@Lexxyla
-Lexxyla Merge pull request #1 from Aysuarex/main
-…
- 2 contributors
-317 lines (203 sloc)  7.83 KB
 0x00. AirBnB clone - The console
 0x00.Table of contents
 0x01 Introduction
@@ -48,8 +31,6 @@ pycodestyle (version 2.8.0)
 PEP8
 All the development and testing was runned over an operating system Ubuntu 20.04 LTS using programming language Python 3.8.3. The editors used were VIM 8.1.2269, VSCode 1.6.1 and Atom 1.58.0 . Control version using Git 2.25.1.
 
-0x03 Installation
-git clone https://github.com/aysuarex/AirBnB_clone.git
 change to the AirBnb directory and run the command:
 
  ./console.py
