@@ -1,20 +1,3 @@
-
-Lexxyla
-/
-AirBnB_clone
-Public
-forked from Aysuarex/AirBnB_clone
-Code
-Pull requests
-Actions
-Projects
-Security
-Insights
-AirBnB_clone/tests/test_console.py
-@Lexxyla
-Lexxyla tests
- 2 contributors
-Executable File  1570 lines (1451 sloc)  80.2 KB
 #!/usr/bin/python3
 """Defines unittests for console.py.
 Unittest classes:
