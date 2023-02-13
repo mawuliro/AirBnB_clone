@@ -1,20 +1,3 @@
-
-Lexxyla
-/
-AirBnB_clone
-Public
-forked from Aysuarex/AirBnB_clone
-Code
-Pull requests
-Actions
-Projects
-Security
-Insights
-AirBnB_clone/tests/test_models/test_place.py
-@Lexxyla
-Lexxyla tests
- 2 contributors
-Executable File  249 lines (204 sloc)  7.68 KB
 #!/usr/bin/python3
 """Defines unittests for models/place.py.
 Unittest classes:
